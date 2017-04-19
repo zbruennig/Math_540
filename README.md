@@ -23,6 +23,6 @@ The output files in this folder try to list these out, considering only certain 
 output.txt shows all those in Case 3.
 output2.txt shows all those in Case 3, and all multiples of those.
 output3.txt shows all cases.
-bigOutput.txt shows all those in Case 3, for a wider range of a and b.
+bigOutput.txt shows all those in Case 3, for a wider range of a and b. Opening this file MAY slow down your computer.
 
 Although output2 and output3 may look visually appealing, the most interesting one is output3.txt. There appear to be some patterns to the asterisks, although it's hard to pin down exactly what they are.
