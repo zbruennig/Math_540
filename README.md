@@ -28,4 +28,8 @@ output3.txt shows all cases.
 
 bigOutput.txt shows all those in Case 3, for a wider range of a and b. Opening this file MAY slow down your computer.
 
+pairs.txt lists all the pairs in Case 3.
+
+all_pairs.txt lists ALL the pairs in ALL the cases. (It's long!)
+
 Although output2 and output3 may look visually appealing, the most interesting one is output3.txt. There appear to be some patterns to the asterisks, although it's hard to pin down exactly what they are.
