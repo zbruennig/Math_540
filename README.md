@@ -21,8 +21,11 @@ Case 4: A combination of Case 2 and Case 3, where gcd(a,b) =/= 1, but removing t
 The output files in this folder try to list these out, considering only certain cases. The rows and columns represent the a and b components, respectively. An asterisk means that the gcd(a+bi, a-bi) =/= 1
 
 output.txt shows all those in Case 3.
+
 output2.txt shows all those in Case 3, and all multiples of those.
+
 output3.txt shows all cases.
+
 bigOutput.txt shows all those in Case 3, for a wider range of a and b. Opening this file MAY slow down your computer.
 
 Although output2 and output3 may look visually appealing, the most interesting one is output3.txt. There appear to be some patterns to the asterisks, although it's hard to pin down exactly what they are.
